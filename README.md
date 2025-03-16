@@ -1,6 +1,6 @@
-## ZyloAI - Chatbot CLI dengan API Qwen
+## ZyloAI - Chatbot AI
 
-ZyloAI adalah chatbot berbasis CLI yang menggunakan API Qwen untuk menjawab pertanyaan pengguna.
+ZyloAI adalah chatbot berbasis CLI yang digunakan untuk menjawab pertanyaan pengguna.
 Chatbot ini mendukung mode perintah dan mode percakapan langsung (interpreter mode), serta memungkinkan penyimpanan output dalam format TXT atau JSON.
 
 ### Fitur Utama
@@ -109,7 +109,7 @@ Output di Terminal
 ◐ Mengirim ke AI...
 🟢 AI: Teknologi AI adalah kecerdasan buatan yang digunakan untuk berbagai keperluan seperti analisis data, chatbot, dan otomasi.
 ```
-# 🔹 Mode Percakapan Langsung
+### Mode Percakapan Langsung
 ```
 python zylo.py -s
 
@@ -121,7 +121,7 @@ Anda: Halo AI!
 🟢 AI: Halo, saya adalah asisten Anda. Ada yang bisa saya bantu?
 ```
 
-# Developer
+### Developer
 ```
 🚀 Nama: Fahad
 📌 Github: github.com/fahadsyihab06
